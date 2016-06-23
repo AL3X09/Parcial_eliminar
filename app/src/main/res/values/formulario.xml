@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nom_libreria">Nombre</string>
+    <string name="autor">Autor</string>
+    <string name="editorial">Editorial</string>
+    <string name="tip_literaria">Tipo</string>
+    <string name="b_insertar">Insertar</string>
+    <string name="b_modificar">Modificar</string>
+    <string name="b_eliminar">Eliminar</string>
+    <string name="b_listar">Listar</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight">
+
+    <TextView
+        android:id="@+id/txt_listlibro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nombres del lugar"
+        android:layout_alignParentTop="true"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:singleLine="true" />
+    <TextView
+        android:id="@+id/txt_listAutor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt_listlibro"
+        android:gravity="center"
+        android:singleLine="true"
+        android:text="dirección del lugar"/>
+
+
+</RelativeLayout>
